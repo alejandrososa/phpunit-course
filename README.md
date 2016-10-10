@@ -16,7 +16,7 @@ Esto es github con lo cual la comunicación no es unidireccional, sienteté libr
 * El naming en código será 100% en ingles.
 * Cada clase estará dividida en un folder con lo cual tendrás manera de ponerte al día en caso de que no puedas seguir el ritmo natural. 
 * La participación es fundamental.
-* La menra más fácil de estar al día es con Watch. 
+* La manera más fácil de estar al día es con Watch. 
 * Nuestra guía será el libro de PHPUnit que se puede encontrar en https://phpunit.de/manual/current/en/phpunit-book.pdf
 
 # ¿ Qué esperar del curso ?
