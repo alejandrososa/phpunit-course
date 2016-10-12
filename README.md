@@ -23,3 +23,12 @@ Esto es github con lo cual la comunicación no es unidireccional, sienteté libr
 
 La idea es ser una referencia en castellano para poder afianzar los conocimientos que provee el libro de PHPUnit, establecer las diferencias entre llevar a cabo pruebas unitarias y prácticar una filosofía de desarrollo TDD así como explorar otros marcos de trabajo para pruebas unitarias.
 
+# Máquina Virtual 
+En este curso se provee de una máquina virtual que hace uso de vagrant y puphpet, para poder utilizarla ud solo necesita instalar vagrant en su máquina, 
+luego descomprima el fichero puphpet de un directorio y ubiquese en el desde su consola linux, mac o dos, una vez allí ejecute: 
+
+    vagrant up
+
+Tómese un café y disfrute de su máquina virtual con ubuntu, php7, mysql, composer, xdebug, vim, mongodb, node, redis y más 
+
+su usuario será developer, la contraseña la misma. 
