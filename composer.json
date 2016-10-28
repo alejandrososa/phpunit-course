@@ -13,7 +13,9 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Class1\\": "Class1/"
+            "Class1\\": "Class1/",
+            "Class2\\": "Class2/",
+            "Objetos\\": "Objetos/"
         }
     }
 }
