@@ -12,5 +12,23 @@ namespace Class1;
 
 class Car
 {
+    /**
+     * @var string
+     */
+    public $brand;
 
+    /**
+     * @var string
+     */
+    public $model;
+
+    /**
+     * @var string
+     */
+    public $color;
+
+    /**
+     * @var string
+     */
+    public $numberOfTires;
 }
